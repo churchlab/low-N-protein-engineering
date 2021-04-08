@@ -1,0 +1,7 @@
+awscli==1.16.90
+biopython==1.72
+numpy==1.15.4
+pandas==0.23.4
+jupyter==1.0.0
+python-Levenshtein==0.12.0
+seaborn==0.9.0
